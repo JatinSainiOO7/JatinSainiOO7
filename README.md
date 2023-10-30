@@ -48,6 +48,8 @@ Here are a few projects I'm proud of:
    - My personal portfolio website, showcasing my skills and projects.
    - Technologies used: Three.js | scroling effeact
    - [Visit the Portfolio](https://your-portfolio-website.com)
+  
+4. [Another Projects](https://github.com/JatinSainiOO7?tab=repositories)
 
 ## Blog Posts
 
