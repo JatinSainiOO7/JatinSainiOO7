@@ -1,6 +1,7 @@
 # Frontend Developer
 
-Hello, I'm <h1>JATIN SAINI</h1>, a passionate frontend developer with a love for creating interactive and user-friendly web applications. This is my GitHub profile, where I showcase my projects, skills, and contributions to the world of web development.
+Hello, I'm <h1>JATIN SAINI</h1>
+a passionate frontend developer with a love for creating interactive and user-friendly web applications. This is my GitHub profile, where I showcase my projects, skills, and contributions to the world of web development.
 
 ## About Me
 
