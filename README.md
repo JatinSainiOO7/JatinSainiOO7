@@ -1,7 +1,7 @@
 # Frontend Developer
 
-Hello, I'm <h1>JATIN SAINI</h1>
-a passionate frontend developer with a love for creating interactive and user-friendly web applications. This is my GitHub profile, where I showcase my projects, skills, and contributions to the world of web development.
+## Hello, I'm <h1>JATIN SAINI</h1>
+# a passionate frontend developer with a love for creating interactive and user-friendly web applications. This is my GitHub profile, where I showcase my projects, skills, and contributions to the world of web development.
 
 ## About Me
 
@@ -13,22 +13,22 @@ a passionate frontend developer with a love for creating interactive and user-fr
 
 ## My Stack
 
-Here are some of the technologies and tools I frequently use:
+##Here are some of the technologies and tools I frequently use:
 
-- HTML5
-- CSS3 and SASS/SCSS
-- JavaScript (ES6+)
-- React
-- Three.js
-- Responsive Web Design
-- Version Control (Git/GitHub)
-- Webpack and Babel
-- Testing (Jest, React Testing Library)
-- Bleander (Beginner)
+## - HTML5
+## - CSS3 and SASS/SCSS
+## - JavaScript (ES6+)
+## - React
+## - Three.js
+## - Responsive Web Design
+## - Version Control (Git/GitHub)
+## - Webpack and Babel
+## - Testing (Jest, React Testing Library)
+## - Bleander (Beginner)
 
 ## Projects
 
-Here are a few projects I'm proud of:
+#Here are a few projects I'm proud of:
 
 1. [E-Commerce-React-Website](https://github.com/yourusername/project-name)
    - Simple UI, Responsive Design And Smooth Anomation.
@@ -61,11 +61,11 @@ I occasionally write about web development and related topics. Check out some of
    - 
 ## Let's Connect
 
-I'm always eager to connect with fellow developers and tech enthusiasts. Feel free to reach out to me on:
+## I'm always eager to connect with fellow developers and tech enthusiasts. Feel free to reach out to me on:
 
-- [LinkedIn](https://www.linkedin.com/in/jatin-saini-711055294/)
-- [Twitter](https://twitter.com/JatinSaini0O7)
-- [Dev.to](https://dev.to/jatinsainioo7)
+# [LinkedIn](https://www.linkedin.com/in/jatin-saini-711055294/)
+# [Twitter](https://twitter.com/JatinSaini0O7)
+# [Dev.to](https://dev.to/jatinsainioo7)
 
 ## Contributions
 
