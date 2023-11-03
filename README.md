@@ -13,7 +13,7 @@
 
 ## My Stack
 
-##Here are some of the technologies and tools I frequently use:
+## Here are some of the technologies and tools I frequently use:
 
 ## - HTML5
 ## - CSS3 and SASS/SCSS
