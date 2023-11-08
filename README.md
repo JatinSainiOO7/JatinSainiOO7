@@ -1,82 +1,54 @@
-# Frontend Developer
+# Hi there 👋
 
-## Hello, I'm <h1>JATIN SAINI</h1>
-# a passionate frontend developer with a love for creating interactive and user-friendly web applications. This is my GitHub profile, where I showcase my projects, skills, and contributions to the world of web development.
+My name is jatin saini and I am a 3nd year B.Tech CSE. I am enthusiastic and love learning new technologies and build projects.
+I am new to Open Source so really looking forward to lots of different projects.
 
-## About Me
+<!--
+**JatinSainiOO7/JatinSainiOO7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 👩‍💻 Frontend Developer
-- 🌍 Rajasthan, India
-- 💼 Currently working as Freelancer
-- 📧 You can reach me at [jatinsaini.developer@gmail.com]
-- 🌐 Check out my [Portfolio Website](https://your-website.com)
+Here are some ideas to get you started:
 
-## My Stack
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-## Here are some of the technologies and tools I frequently use:
+## My Tech Stack :
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/911px-ISO_C%2B%2B_Logo.svg.png"/>
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" />
+<br />
 
-## - HTML5
-## - CSS3 and SASS/SCSS
-## - JavaScript (ES6+)
-## - React
-## - Three.js
-## - Responsive Web Design
-## - Version Control (Git/GitHub)
-## - Webpack and Babel
-## - Testing (Jest, React Testing Library)
-## - Bleander (Beginner)
+## My badges :
+[![An image of @jatinsaini0o7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pushkar1713)](https://holopin.io/@pushkar1713)
 
-## Projects
+## My Stats :
+<a href="https://github.com/pushkar1713/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pushkar1713&show_icons=true&theme=tokyonight" />
+</a>
+<br />
+<br />
+<a href="https://github.com/JatinSainiOO7">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkar1713&layout=compact&theme=tokyonight&card_width=335" />
+</a>
 
-#Here are a few projects I'm proud of:
+## Socials :
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/pushkar1713)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pushkar1713/)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20729967/pushkar1713)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://puzzledpushkar.hashnode.dev/)
 
-1. [E-Commerce-React-Website](https://github.com/yourusername/project-name)
-   - Simple UI, Responsive Design And Smooth Anomation.
-   - Technologies used: Html5, css/scss, javascript/React.
-   - [Live Demo](https://your-live-demo-url.com)
-
-2. [Weather-Report-OpenSourc-Project](https://github.com/JatinSainiOO7/HazzWeather)
-   - Weather Application created using ReactJS and APIs provided by OpenAPI.org.
-   ### Features
-   - Type the name of city whose weather has to be known OR allow location access(to check weather of present location).
-     Sound customised to selected city’s weather played in the background.
-   - Displays the present weather conditions (Temperature, Humidity, Cloud Cover) along with forecasts for the future.
-     Animation According To Weather Condition.
-   - Technologies used: List the technologies you used.
-   - [Live Demo](https://your-live-demo-url.com)
-
-3. [Personal Portfolio](https://github.com/JatinSainiOO7/Portfolio-Website)
-   - My personal portfolio website, showcasing my skills and projects.
-   - Technologies used: Three.js | scroling effeact
-   - [Visit the Portfolio](https://your-portfolio-website.com)
-  
-4. [Another Projects](https://github.com/JatinSainiOO7?tab=repositories)
-
-## Blog Posts
-
-I occasionally write about web development and related topics. Check out some of my recent articles:
-
-1. [TechTalkCentral](https://www.patreon.com/TechTalkCentral)
-   - Level Up Your Tech Experience with Our Latest Titles!
-   - 
-## Let's Connect
-
-## I'm always eager to connect with fellow developers and tech enthusiasts. Feel free to reach out to me on:
-
-# [LinkedIn](https://www.linkedin.com/in/jatin-saini-711055294/)
-# [Twitter](https://twitter.com/JatinSaini0O7)
-# [Dev.to](https://dev.to/jatinsainioo7)
-
-## Contributions
-
-I love open source and enjoy contributing to various projects. Here are a few notable contributions:
-
-1. [ossamamehmood/Hacktoberfest](https://https://github.com/ossamamehmood/Hacktoberfest/pull/558)
-   -  This repository is not eligible for Hacktoberfest. If you're looking for a repository to contribute to and participate in Hacktoberfest, please check out our new repository to make your contributions count!
-
-2. [HazzWeather](https://github.com/HridoyHazard/HazzWeather/blob/main)
-   - Brief description of your contribution.
-
-If you're interested in collaborating or have questions about any of my projects, feel free to reach out.
-
-Thanks for visiting my profile! 👩‍💻✨
+## Coding Profiles :
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/pushkar1713/)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/pushkar1713)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/pushkar1713/)
+[![codingninjas](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.codingninjas.com/studio/profile/pushkar1713)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/pushkar1713)
