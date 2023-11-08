@@ -28,27 +28,27 @@ Here are some ideas to get you started:
 <br />
 
 ## My badges :
-[![An image of @jatinsaini0o7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pushkar1713)](https://holopin.io/@pushkar1713)
+[![An image of @jatinsaini0o7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jatin_saini007#/badges)](https://holopin.io/@jatin_saini007#/badges)
 
 ## My Stats :
-<a href="https://github.com/pushkar1713/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pushkar1713&show_icons=true&theme=tokyonight" />
+<a href="https://github.com/JatinSainiOO7/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JatinSainiOO7&show_icons=true&theme=tokyonight" />
 </a>
 <br />
 <br />
 <a href="https://github.com/JatinSainiOO7">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkar1713&layout=compact&theme=tokyonight&card_width=335" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinSainiOO7&layout=compact&theme=tokyonight&card_width=335" />
 </a>
 
 ## Socials :
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/pushkar1713)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pushkar1713/)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20729967/pushkar1713)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://puzzledpushkar.hashnode.dev/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/JatinSaini0O7)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-saini-711055294/)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22879438/jatinsainioo7)
+[![DEV](https://img.shields.io/badge/DEV-2962FF?style=for-the-badge&logo=DEV&logColor=black)](https://dev.to/jatinsainioo7)
 
 ## Coding Profiles :
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/pushkar1713/)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/pushkar1713)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/pushkar1713/)
-[![codingninjas](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.codingninjas.com/studio/profile/pushkar1713)
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/pushkar1713)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)]()
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)]()
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)]()
+[![codingninjas](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)]()
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)]()
