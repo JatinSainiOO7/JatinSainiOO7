@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is jatin saini and I am a 3nd year B.Tech CSE. I am enthusiastic and love learning new technologies and build projects.
+My name is jatin saini and I am a 3rd year B.Tech CSE. I am enthusiastic and love learning new technologies and build projects.
 I am new to Open Source so really looking forward to lots of different projects.
 
 
