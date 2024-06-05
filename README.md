@@ -12,10 +12,6 @@ I am new to Open Source so really looking forward to lots of different projects.
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" />
 <br />
-
-## My badges :
-[![An image of @jatinsaini0o7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jatin_saini007#/badges)](https://holopin.io/@jatin_saini007#/badges)
-
 ## My Stats :
 <a href="https://github.com/JatinSainiOO7/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JatinSainiOO7&show_icons=true&theme=tokyonight" />
