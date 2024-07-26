@@ -3,7 +3,7 @@
 My name is jatin saini and I am a 3rd year B.Tech(cse) Student. I am enthusiastic and love learning new technologies and build projects.
 I am new to Open Source so really looking forward to lots of different projects.
 
-
+[![JatinSainiOO7's GitHub | Stats](https://stats.quira.sh/JatinSainiOO7/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=JatinSainiOO7)
 ## My Tech Stack :
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/911px-ISO_C%2B%2B_Logo.svg.png"/>
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
