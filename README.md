@@ -1,7 +1,8 @@
 # Hi there 👋
+![hello](https://github.com/user-attachments/assets/95c0d492-243a-4fa1-a71c-a3715f736db8)
 
-My name is jatin saini and I am a 3rd year B.Tech(cse) Student. I am enthusiastic and love learning new technologies and build projects.
-I am new to Open Source so really looking forward to lots of different projects.
+
+## My name is jatin saini and I am a 3rd year B.Tech(cse) Student. I am enthusiastic and love learning new technologies and build projects. I am new to Open Source so really looking forward to lots of different projects.
 
 [![JatinSainiOO7's GitHub | Stats](https://stats.quira.sh/JatinSainiOO7/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=JatinSainiOO7)
 ## My Tech Stack :
