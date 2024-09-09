@@ -1,8 +1,9 @@
-# Hi there 👋
-![hello](https://github.com/user-attachments/assets/95c0d492-243a-4fa1-a71c-a3715f736db8)
+# Hi, there I’m Jatin!
 
-
-## My name is Jatin Saini and I am a 3rd year B.Tech Student. Enthusiastic and love learning new technologies and build projects. new to Open Source so really looking forward to lots of different projects.
+![I have stolen this gif](https://c.tenor.com/CwZDbX7DvR8AAAAd/pixel-sakura.gif)
+###### (this beauty gif is not mine)
+# About me
+## Hey! I am Student. Enthusiastic and love learning new technologies and build projects. New to Open Source so really looking forward to lots of different projects.
 
 [![JatinSainiOO7's GitHub | Stats](https://stats.quira.sh/JatinSainiOO7/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=JatinSainiOO7)
 ## My Tech Stack :
