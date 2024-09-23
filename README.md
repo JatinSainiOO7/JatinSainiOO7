@@ -1,9 +1,9 @@
 # Hi, there I’m Jatin Saini.
 
-![I have stolen this gif](https://c.tenor.com/CwZDbX7DvR8AAAAd/pixel-sakura.gif)
-###### (this beauty gif is not mine)
+ <img src="https://camo.githubusercontent.com/64fde10e402d3aaab6bdf83b74dd7275e18ec28ba031fa0fdb0c48990ab963d3/68747470733a2f2f7777772e6368617270656e692e636f6d2f7374617469632f696d616765732f6172726f772d66756e6374696f6e732d696e2d636c6173732d70726f706572746965732d6d696768742d6e6f742d62652d61732d67726561742d61732d77652d7468696e6b2f62616e6e65722e676966" />
+ 
 # About me
-## Hey! I am Student. Enthusiastic and love learning new technologies and build projects. New to Open Source so really looking forward to lots of different projects.
+# Hey! I am Student. Enthusiastic and love learning new technologies and build projects. New to Open Source so really looking forward to lots of different projects.
 
 ## My Tech Stack :
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/911px-ISO_C%2B%2B_Logo.svg.png"/>
