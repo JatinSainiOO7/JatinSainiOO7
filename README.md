@@ -23,8 +23,6 @@
 ## Socials :
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/JatinSaini0O7)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-saini-711055294/)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22879438/jatinsainioo7)
-[![DEV](https://img.shields.io/badge/DEV-2962FF?style=for-the-badge&logo=DEV&logColor=black)](https://dev.to/jatinsainioo7)
 
 ## Coding Profiles :
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/JatinSainiOO7/)
