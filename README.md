@@ -5,8 +5,8 @@
   <pre>
   💫 About Me:
   🌱 Currently learning: Advanced TypeScript & ASP.NET Core Development
-  ⚡ Tech Stack: React | TypeScript | C#| SQL | Python | C++ |p5.js | Three.js
-  💬 Ask me about: Front-End Development, Creative UI ideas, or React projects 
+  ⚡ Tech Stack: React | TypeScript | C# | SQL | Python | C++ | p5.js | Three.js
+  💬 Ask me about: Front-End Development, Creative UI ideas, React projects 
   🎯Goal: Build impactful projects and contribute to open-source communities 
   📫 Reach me at: 
   </pre>
