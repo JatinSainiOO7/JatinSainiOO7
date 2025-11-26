@@ -4,7 +4,7 @@
 <h2>
   <pre>
   💫 About Me:
-  🌱 Currently learning: Advanced TypeScript & Blockchain integration  
+  🌱 Currently learning: Advanced TypeScript & ASP.NET Development
   ⚡ Tech Stack: React | TypeScript | JavaScript | Python | C++ |p5.js | Three.js
   💬 Ask me about: Front-End Development, Creative UI ideas, or React projects 
   🎯Goal: Build impactful projects and contribute to open-source communities 
